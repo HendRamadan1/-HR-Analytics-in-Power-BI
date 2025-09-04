@@ -47,15 +47,13 @@ The dataset includes HR-related attributes such as:
 Here are the main pages of the **HR Analytics Dashboard**:
 
 ### 1️⃣ Overview Page
-![Overview Dashboard Screenshot](screenshots/)
+![Overview Dashboard Screenshot](https://github.com/HendRamadan1/-HR-Analytics-in-Power-BI/blob/main/Screenshot%20(2084).png)
 
 ### 2️⃣ Performance & Reviews
-![Performance Dashboard Screenshot](screenshots/performance.png)
+![Performance Dashboard Screenshot](https://github.com/HendRamadan1/-HR-Analytics-in-Power-BI/blob/main/Screenshot%20(2085).png)
 
 ### 3️⃣ Satisfaction & Retention
-![Satisfaction Dashboard Screenshot](screenshots/satisfaction.png)
-
-*(👉 Replace the file paths with your actual screenshot filenames in the `screenshots/` folder.)*
+![Satisfaction Dashboard Screenshot](https://github.com/HendRamadan1/-HR-Analytics-in-Power-BI/blob/main/Screenshot%20(2086).png)
 
 ---
 
