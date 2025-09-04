@@ -1,6 +1,6 @@
 # HR Analytics in Power BI 📊
 
-## 📌 Overview
+## Overview
 This project is an **HR Analytics Dashboard** built in **Power BI**.  
 It focuses on analyzing employee data to provide insights into workforce demographics, performance, satisfaction, and retention.  
 
@@ -8,7 +8,7 @@ The use case was inspired by the **HR Analytics in Power BI course on DataCamp**
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Track employee demographics (age, gender, department, job role).
 - Analyze performance ratings and work-life balance.
 - Identify patterns in job satisfaction and environment satisfaction.
@@ -17,7 +17,7 @@ The use case was inspired by the **HR Analytics in Power BI course on DataCamp**
 
 ---
 
-## 📂 Data
+##  Data
 The dataset includes HR-related attributes such as:
 - **Employee Details**: ID, Age, Gender, Department, Job Role, Hire Date.
 - **Performance Metrics**: Review Date, Performance Rating, Environment Satisfaction, Work-Life Balance.
@@ -25,7 +25,7 @@ The dataset includes HR-related attributes such as:
 
 ---
 
-## 🛠️ Tools & Techniques
+##  Tools & Techniques
 - **Power BI**: Data cleaning, modeling, DAX calculations, and dashboard building.
 - **DAX Functions**:  
   - `CALCULATE()` & `USERELATIONSHIP()` for handling multiple relationships.  
@@ -34,7 +34,7 @@ The dataset includes HR-related attributes such as:
 
 ---
 
-## 📊 Key Features of the Dashboard
+##  Key Features of the Dashboard
 - **Employee Demographics**: Distribution of employees by age, gender, and department.
 - **Performance Tracking**: Latest review dates, performance rating trends.
 - **Satisfaction Analysis**: Work-life balance, job satisfaction, and environment satisfaction.
@@ -43,7 +43,7 @@ The dataset includes HR-related attributes such as:
 
 ---
 
-## 📸 Dashboard Visualizations
+## Dashboard Visualizations
 Here are the main pages of the **HR Analytics Dashboard**:
 
 ### 1️⃣ Overview Page
@@ -65,7 +65,7 @@ Here are the main pages of the **HR Analytics Dashboard**:
 
 ---
 
-## 📈 Outcome
+## Outcome
 This HR Analytics dashboard enables HR professionals to:
 - Proactively address satisfaction and retention issues.  
 - Monitor workforce trends with real-time insights.  
@@ -73,16 +73,16 @@ This HR Analytics dashboard enables HR professionals to:
 
 ---
 
-## 📌 Next Steps
+## Next Steps
 - Add predictive modeling for attrition risk.  
 - Incorporate survey data for deeper satisfaction analysis.  
 - Automate data refresh from HR systems.  
 
 ---
 
-## 🙌 Credits
+## Credits
 - Dataset & inspiration: [DataCamp – HR Analytics in Power BI](https://www.datacamp.com/)  
-- Dashboard design & DAX calculations: *by Hend Ramadan (هنود)*
+- Dashboard design & DAX calculations: *by Hend Ramadan *
 
 - ## Contact ☎️
 
